@@ -26,6 +26,7 @@ namespace Schreibtolls
             Console.ReadKey();
         }
 
+
         static string LoremIpsum(int minWords, int maxWords,
     int minSentences, int maxSentences,
     int numParagraphs)
